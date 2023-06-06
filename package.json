@@ -13,11 +13,11 @@
   ],
   "contributors": [
     {
-      "name": "Steven Ho <shockshocksoul@gmail.com>"
+      "name": "Kaveh Karami <Kaveh.Karami.KK@gmail.com>"
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/steven0811/nuxt-breakpoints.git",
+  "repository": "https://github.com/KavehKarami/nuxt-breakpoints.git",
   "publishConfig": {
     "access": "public"
   },
